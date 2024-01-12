@@ -1,6 +1,5 @@
 //Carré
 
-package etoiles;
 
 import java.util.Scanner;
 
@@ -29,7 +28,7 @@ public class Boucle {
 
 //Triangle RECTANGLE
 
-package etoiles;
+
 
 import java.util.Scanner;
 
@@ -59,7 +58,7 @@ public class Boucle {
 //Triangle rectangle inversé
 
 
-package etoiles;
+
 
 import java.util.Scanner;
 
@@ -90,7 +89,7 @@ public class Main {
 //Triangle rectangle 2
 
 
-package etoiles;
+
 
 import java.util.Scanner;
 
@@ -157,7 +156,6 @@ public class Boucle {
 //Demi-Losange
 
 
-package etoiles;
 
 import java.util.Scanner;
 
@@ -202,7 +200,6 @@ public class Boucle {
 
 //Multiplication
 
-package etoiles;
 
 import java.util.Scanner;
 
