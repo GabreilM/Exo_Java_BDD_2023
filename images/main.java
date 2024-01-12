@@ -4,7 +4,7 @@ package etoiles;
 
 import java.util.Scanner;
 
-public class Main {
+public class Boucle {
     public static void main(String[] args){
        try {
          Scanner sc = new Scanner(System.in);
@@ -33,7 +33,7 @@ package etoiles;
 
 import java.util.Scanner;
 
-public class Main {
+public class Boucle {
    public static void main(String[] args){
       try {
          Scanner sc = new Scanner(System.in);
@@ -94,7 +94,7 @@ package etoiles;
 
 import java.util.Scanner;
 
-public class Main {
+public class Boucle {
    public static void main(String[] args){
       try {
          Scanner sc = new Scanner(System.in);
@@ -128,7 +128,7 @@ package etoiles;
 
 import java.util.Scanner;
 
-public class Main {
+public class Boucle {
    public static void main(String[] args){
       try {
          Scanner sc = new Scanner(System.in);
@@ -161,7 +161,7 @@ package etoiles;
 
 import java.util.Scanner;
 
-public class Main {
+public class Boucle {
    public static void main(String[] args){
       try {
          Scanner sc = new Scanner(System.in);
@@ -206,7 +206,7 @@ package etoiles;
 
 import java.util.Scanner;
 
-public class Main {
+public class Boucle {
    public static void main(String[] args){
       try {
          Scanner sc = new Scanner(System.in);
